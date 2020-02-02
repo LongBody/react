@@ -1,0 +1,13 @@
+.todoItem-complete p {
+    text-decoration: line-through;
+    opacity: .3;
+}
+
+.TodoItem {
+    display: flex;
+    margin: 10px;
+}
+
+.check {
+    margin: 5px;
+}
